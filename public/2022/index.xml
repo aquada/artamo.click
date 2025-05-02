@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022s on My New Hugo Site</title>
+    <link>http://localhost:1313/2022/</link>
+    <description>Recent content in 2022s on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 May 2022 07:15:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upwards and onwards</title>
+      <link>http://localhost:1313/2022/05/17/upwards-and-onwards/</link>
+      <pubDate>Tue, 17 May 2022 07:15:00 +0000</pubDate>
+      <guid>http://localhost:1313/2022/05/17/upwards-and-onwards/</guid>
+      <description>&lt;p&gt;Another nail biting long wait in the immigration office in Cape Town. We collected our visa extension results..Yippee! Not too painful either. We lunched on the way home at a favourite half way restaurant. The Yippee turned to horror, after checking our visas. Oh no!… a mistake with the expiry date……and not in our favour, having cut our return date by two months! Why, oh why did we not check this at desk?.. So much confusion at the time, we just grabbed and ran.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Defying the pandemic</title>
+      <link>http://localhost:1313/2022/01/23/defying-the-pandemic/</link>
+      <pubDate>Sun, 23 Jan 2022 14:17:19 +0000</pubDate>
+      <guid>http://localhost:1313/2022/01/23/defying-the-pandemic/</guid>
+      <description>&lt;p&gt;Once again we have defeated the Covid pandemic. We, the intrepid duo, will not be beaten. We did it before, we’ll do it again! This time, a year later, with two  cancelled flights on airlines refusing to fly to South Africa, we sought a third, Swiss Airways. Every day until we left we dreaded that this one may follow suit, especially as the new variant Omicron raised its ugly head. Lady Luck was on our side, however, and with blood streams surging with anti viral drugs, noses and throats swabbed, and an abundance  of necessary documentation we  travelled, albeit with some trepidation. Circumstances can change so rapidly in such a precarious crisis . The journey was longer this time as involved a seven hour stop over in Zurich, but much less stressful,  and went to plan. Were we relieved to clear customs at Cape Town air port after a thirty hour trip.?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
